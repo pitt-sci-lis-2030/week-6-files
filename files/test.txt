@@ -1,0 +1,4 @@
+I'm a little text file
+short and stout
+here is a new line and
+here is my sequence of codepoints mapping to the UTF-8 standard 
